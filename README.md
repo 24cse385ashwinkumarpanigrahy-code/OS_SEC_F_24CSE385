@@ -1,5 +1,5 @@
 # OS_SEC_F_24CSE385
-# Operating Systems Security Assignments
+# Operating Systems Assignments
 ## 📌 Overview of Operating System
 An Operating System (OS) is system software that acts as an interface between the user and computer hardware. It manages hardware resources and provides services for application programs.
 ## ⚙️ Key Functions of an Operating System
