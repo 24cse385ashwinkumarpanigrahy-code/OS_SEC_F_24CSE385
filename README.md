@@ -21,7 +21,7 @@ An Operating System (OS) is system software that acts as an interface between th
 ## 🎯 Objective of This Repository
 This repository contains all assignments related to Operating System Security, organized assignment-wise for easy access and evaluation.
 
-**Student Name:** Your Name
+**Student Name:** Ashwin Kumar Panigrahy
 **Roll Number:** 24CSE385
-**Course:** OS Security
+**Course:** OS
 
